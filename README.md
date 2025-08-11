@@ -35,15 +35,18 @@ Common packages (all OS)
 
 *  pip install --upgrade pip
 *   pip install opencv-python mediapipe numpy
-Windows
+
+### Windows
 
 * pip install pycaw comtypes screen-brightness-control
 
-# optional but nice for media keys:
+ optional but nice for media keys:
 
 * python -m pip install keyboard
 
-# brightness control tool
+### macOS
+
+brightness control tool
 
 * brew install brightness
 
