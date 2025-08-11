@@ -51,4 +51,7 @@ brightness control tool
 * brew install brightness
 
 
+### Note:
+
+* Make sure to open a video player or YouTube so you can see it in action.
 
